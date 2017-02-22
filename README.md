@@ -1338,7 +1338,7 @@ plt.show()
 ```
 
 
-![png](output_61_0.png)
+![png](figures/output_61_0.png)
 
 
 It is obvious that the "higher" (smaller number) the Passenger's Class, the higher the Survival Rate.  
@@ -1436,7 +1436,7 @@ plt.show()
 ```
 
 
-![png](output_66_0.png)
+![png](figures/output_66_0.png)
 
 
 The Women had over 4 times the Survival Rate of the men.  
@@ -1609,7 +1609,7 @@ plt.show()
 ```
 
 
-![png](output_72_0.png)
+![png](figures/output_72_0.png)
 
 
 In the above graphs, we can notice some extreme values to the right end of the scale (70: 0%, 80: 100%).
@@ -1968,7 +1968,7 @@ plt.show()
 ```
 
 
-![png](output_77_0.png)
+![png](figures/output_77_0.png)
 
 
 From the above results, we can conclude that the Age was a crucial factor for the survival of the passengers with the children under 15 having the greatest probability to survive.  
@@ -2029,7 +2029,7 @@ plt.show()
 ```
 
 
-![png](output_80_0.png)
+![png](figures/output_80_0.png)
 
 
 There is a patern in the plot but as we saw earlier, there is a negative correlation between *Number of Siblings/Spouses* and *Age*.  
@@ -2089,7 +2089,7 @@ plt.show()
 ```
 
 
-![png](output_82_0.png)
+![png](figures/output_82_0.png)
 
 
 This negative corelation between the *Passenger's Age* and the *Number of Siblings/Spouses* can be further highlighted in the following plot.
@@ -2108,7 +2108,7 @@ plt.show()
 ```
 
 
-![png](output_84_0.png)
+![png](figures/output_84_0.png)
 
 
 ## Survival Rate per Number of Parents/Children Aboard
@@ -2158,7 +2158,7 @@ plt.show()
 ```
 
 
-![png](output_87_0.png)
+![png](figures/output_87_0.png)
 
 
 The above diagram cannot give a clear picture of a correlation between the *Number of Parents/Children* and the Survival rate. We can say though that the passengers that were traveling with 1 to 3 Parents/Children had a greater Survival Ratio.
@@ -2196,7 +2196,7 @@ plt.show()
 ```
 
 
-![png](output_91_0.png)
+![png](figures/output_91_0.png)
 
 
 And if we remove the 300+ fare outliers:
@@ -2232,7 +2232,7 @@ plt.show()
 ```
 
 
-![png](output_93_0.png)
+![png](figures/output_93_0.png)
 
 
 As we expected, the *Fare* was a critical Survival Factor.
@@ -2284,7 +2284,7 @@ plt.show()
 ```
 
 
-![png](output_98_0.png)
+![png](figures/output_98_0.png)
 
 
 There are significant variations between the three ports.  
@@ -2328,7 +2328,7 @@ plt.show()
 ```
 
 
-![png](output_100_0.png)
+![png](figures/output_100_0.png)
 
 
 The port with the higher Survival Rate is the one with the most higher ratio of "prestigious" passengers and a good female/male ratio and the one with the lowest Rate the "worst" ratio in both categories. This explain the significant differences between the three ports.
@@ -2392,7 +2392,7 @@ plt.show()
 ```
 
 
-![png](output_106_0.png)
+![png](figures/output_106_0.png)
 
 
 ...the "Upper Class" nearly 3 times more chances than the "Lower Class" (63.0% against 24.2%)...
@@ -2453,7 +2453,7 @@ plt.show()
 ```
 
 
-![png](output_109_0.png)
+![png](figures/output_109_0.png)
 
 
 ...and coming to the age factor, the most privileged were the infants (ages under 5) with a Survival Rate of 67.5%, almost double the average.
@@ -2544,7 +2544,7 @@ plt.show()
 ```
 
 
-![png](output_112_0.png)
+![png](figures/output_112_0.png)
 
 
 The above conclusions are tentative and further statistical analysis is required in order to prove their validity.
